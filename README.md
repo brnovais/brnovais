@@ -1,24 +1,29 @@
-# Initial Commit
+# Hi there, I'm Bruno :wave:
 
-Template that I use to create the initial commit of my projects.
+I've been working with computers for the past 18 years, mostly as a Software Engineer and Scientist.<br>
+I love everything related to science and technology, always eager to explore the unknown!
 
-### Files
+## More About Me
 
-Initial files added to my first commit.
+- Educator :man_teacher:
+- Software Engineer :man_office_worker:
+- Scientist :man_scientist:
+- Ph.D :man_student:
+- Writer :man_technologist:
 
-1. **_.gitattributes_**: normalize all text files. Be careful when using with binary files.
-1. **_.gitignore_**: default files ignored in my development environment.
-1. **_ACKNOWLEDGMENTS.md_**: sample acknowledgments of third-party software used by the project.
-1. **_CHANGELOG.md_**: simple changelog for this project that can be used as a sample.
-1. **_CONTRIBUTING.md_**: general guidelines on how to contribute to the project.
-1. **_LICENSE.md_**: license information initially restricting access to everything in the project.
-1. **_README.md_**: project introduction similar to a Getting Started.
+### Truly interested in:
 
-### Commits
+- Algorithms
+- Computer Networks
+- Cryptography
+- Distributed Computing
+- Quantitative Finance
+- Web3
 
-All commit messages are based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
-Example of the first commit used to initialize a new repository:
+### Connect with me:
 
-```
-chore: initial commit
-```
+[LinkedIn](https://linkedin.com/in/brnovais)
+
+### See also:
+
+[brnova.is](https://brnova.is)
